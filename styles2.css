@@ -1,0 +1,283 @@
+.underarmour {
+    position: relative;
+    top: -825px;
+    left: 700px;
+}
+.p1 {
+    position: relative;
+    top: -240px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+}
+.p11 {
+    position: relative;
+    top: -560px;
+    left: -290px;
+    font-size: 22px;
+}
+.invoices {
+    border-color: white;
+}
+.table3 {
+    border-color: white;
+    position: relative;
+    left: 600px;
+}
+.p2 {
+    position: relative;
+    top: -150px;
+    left: 175px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 21px;
+    text-align: center;
+}
+.table4 {
+    border-color: white;
+    position: relative;
+    top: -219px;
+    left: 200px;
+}
+.RecentWinners {
+    position: relative;
+    top: -375px;
+    text-align: center;
+    font-style: italic;
+    font-family: Gill Sans 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+}
+.Champ2018-19 {
+    position: relative;
+    top: -400px;
+    left: 100px;
+    font-style: italic;
+    font-family: Gill Sans 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+.CHAMPS2018-19 {
+    position: relative;
+    top: -400px;
+    left: 70px;
+}
+.Champ2019-20 {
+    position: relative;
+    top: -565px;
+    left: 425px;
+    font-style: italic;
+    font-family: Gill Sans 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+.CHAMPS2019-20 {
+    position: relative;
+    top: -575px;
+    left: 425px;
+}
+.VEGASGK {
+    position: relative;
+    top: -760px;
+    left: 675px;
+}
+.Champ2020-21 {
+    position: relative;
+    bottom: 750px;
+    left: 750px;
+}
+.Champ2021-22 {
+    
+}
+.Champ2022-23 {
+    
+}
+.playerAwards {
+    position: relative;
+    top: -800px;
+    font-style: italic;
+    font-family: Gill Sans 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+}
+.menu {
+    position: relative;
+    top: 5px;
+    left: 50px;
+    text-align: 40px right;
+    background-color: rgb(205, 215, 225);
+} 
+.JJPhockey {
+    position: relative;
+    left: 12px;
+}
+.MEandSTANLEYCUP {
+    position: relative;
+    top: -1120px;
+    left: 0px;
+}
+.Suit {
+    position: relative;
+    top: -550px;
+    left: 600px;
+}
+.theCup {
+    position: relative;
+    left: 600px;
+    font-style: italic;
+    font-family: Gill Sans 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+}
+.StanleyCup {
+    position: relative;
+    top: -120px;
+    left: 80px;
+}
+.Hart {
+    position: relative;
+    top: -800px;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+
+}
+.aboutHart {
+    position: relative;
+    top: -800px;
+}
+.Conn {
+    position: relative;
+    top: -800px;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+.aboutConn {
+    position: relative;
+    top: -800px;
+    
+}
+.ArtRoss {
+    position: relative;
+    top: -800px;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+.aboutArtRoss {
+    position: relative;
+    top: -800px;
+}
+.TedLidsay {
+    position: relative;
+    top: -800px;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+.aboutTedLidsay {
+    position: relative;
+    top: -800px;
+}
+.JamesNorris {
+    position: relative;
+    top: -800px;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+.aboutJamesNorris {
+    position: relative;
+    top: -800px;
+}
+.Vezina {
+    position: relative;
+    top: -800px;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+.aboutVezina {
+    position: relative;
+    top: -800px;
+    
+}
+.Calder {
+    position: relative;
+    top: -800px;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+.aboutCalder {
+    position: relative;
+    top: -800px;
+}
+.logo {
+    position: relative;
+    right: 500px;
+}
+.PlayoffTable {
+    position: relative;
+
+}
+.EstWILDCARD {
+    position: relative;
+    top: -1100px;
+}
+.WestWILDCARD {
+    position: relative;
+    left: 600px;
+    top: -1100px;
+}
+.wildcard {
+    position: relative;
+    left: 600px;
+    top: -1725px;
+}
+.WILDCARDS {
+    position: relative;
+    left: 600px;
+    top: -1725px;
+}
+.SetUp {
+    position: relative;
+    left: 600px;
+    top: -1325px;
+}
+.Round1 {
+    position: relative;
+    left: 600px;
+    bottom: 1350px;
+}
+.brackets2016 {
+    position: relative;
+    left: 600px;
+    top: -1350px;
+}
+.HowtoWin {
+    position: relative;
+    left: 600px;
+    top: -1350px;
+}
+.winning {
+    position: relative;
+    left: 600px;
+    top: -1360px;    
+}
+.Champions {
+    position: relative;
+    left: 650px;
+    top: -1350px;
+}
+.JJP {
+    position: relative;
+    top: -230px;
+    left: 300px;
+}
+.SIDtheKID {
+    position: relative;
+    top: -1150px;
+    left: 550px;
+}
+.ProHockey {
+    position: relative;
+    
+
+}

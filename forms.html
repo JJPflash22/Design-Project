@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>FORMS</title>
+    </head>
+    <body style="background-image: url(IceLOGO.jpg);">
+        <link rel="stylesheet" href="index.html">
+        <p>PLEASE FILL OUT THE FORM</p>
+        <!--This is he first command when making a form-->
+        <form>
+            <label for="Username">Enter Username</label>
+            <input type="text" id="Username" name="Username" placeholder="Enter Username" required>
+            <br><br>
+            <label for="email">Enter email</label>
+            <input type="email" id="email" name="email" placeholder="Enter email" required>
+            <br><br>
+            <label for="password">password</label>
+            <input type="password" id="password" name="password" required>
+            <br><br>
+            <!--Time to make it more challenging-->
+            <label for="birthdate">Enter your D.O.B.</label>
+            <input type="date" id="birthdate" name="birthdate">
+            <br>
+            <p><b>Security Questions and Security Answers</b></p>
+            <br>
+            <label for="question">Security Questions</label>
+            <select name="question" id="question">
+                <option value="q1">Who is your favorite Hockey Player?</option>
+                <option value="q2">Have you ever played Hockey?</option>
+                <option value="q3">What is the name of your Favorite Hockey Team?</option>
+            </select><br>
+            <label for="answers">Security Answer</label>
+            <input type="text" id="answer" name="answer"><br>
+            <label for="bio">Your Bio here:</label><br>
+            <textarea name="bio" id="bio" cols="30" rows="10" placeholder="enter bio" required></textarea>
+            <br>
+            <input type="submit" name="submit" id="submit" value="submit this">
+         </form> 
+    </body>
+</html>
